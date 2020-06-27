@@ -14,7 +14,7 @@ We are trying to build a static web application using simple HTML and CSS code t
 # Steps to follow -
 Before starting i hope you have the basic about HTML, CSS and Apache Web server/Apache tomcat. If not, the very first step is <b>GO AND LEARN...!!</b>  
 
-<b>Step - Creating Static Web Project.</b>
+<b>Step 1 - Creating Static Web Project.</b>
 We have to create a base folder/directory for our project. In this we have create a folder named HelloWorld. So basically HelloWorld is my projet name.
 You can follow the below structure for creating your full project directory. 
 
@@ -34,3 +34,4 @@ You can follow the below structure for creating your full project directory.
           |
           |--->index.html 
 
+<b>Step 2 - Deploying HelloWorld Project in Apache Tomcat.</b>
