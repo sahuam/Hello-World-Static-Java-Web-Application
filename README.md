@@ -35,3 +35,4 @@ You can follow the below structure for creating your full project directory.
           |--->index.html 
 
 <b>Step 2 - Deploying HelloWorld Project in Apache Tomcat.</b>
+Copy the project folder HelloWorld in <tomcat-install-dir>/webapps/
