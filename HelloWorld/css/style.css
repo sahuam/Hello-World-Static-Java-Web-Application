@@ -1,7 +1,24 @@
 body{
-	background-color: #e4e4e4;
+	background-color: #808080;
+	font-family: sans-serif;
+}
+
+div{
+	margin : 20% 0 0 40%; 
+	display:inline-block;
+	height: 100px;
+	width: auto;
+	padding:0 30px;
+	background-color: #59b7ee;
+	border-radius: 10px;
+	text-align: center;
 }
 
 h1{
-	color: brown;
+
+	color: white;
+}
+
+p{
+	margin: 0 0 0 42%;
 }
