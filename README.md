@@ -35,11 +35,13 @@ You can follow the below structure for creating your full project directory.
           |--->index.html 
 
 <b>Step 2 - Deploying HelloWorld Project in Apache Tomcat.</b></br>
-If tomcat is not install in your system. Click here to visit the website to download --> <a href="https://tomcat.apache.org/download-90.cgi">Apache Tomcat 9</a>
+<i>Note : If tomcat is not install in your system. Click here to visit the website to download --> <a href="https://tomcat.apache.org/download-90.cgi">Apache Tomcat 9</a>.</i></br>
 
-After installation check the install direcorty path. For example I am taking the install directory path as "C:\Program Files\Apache Software Foundation\Tomcat 9.0"
+After installation check the install direcorty path. For example I am taking the install directory path as "C:\Program Files\Apache Software Foundation\Tomcat 9.0"</br>
 
-Copy the project folder HelloWorld in "<tomcat-install-dir>/webapps/" directory. 
-Open cmd(command prompt) on your system and follow the below steps - 
-          - goto to bin folder of tomcat type : <b>cd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"</b>
+Copy the project folder HelloWorld in "<tomcat-install-dir>/webapps/" directory. </br>
+Open cmd(command prompt) on your system and follow the below steps - </br>
+          - to go to the bin folder of tomcat type : <b>cd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"</b></br>
           - For starting tomcat type : <b>startup.bat</b> 
+
+<i>Note : To stop apache tomact type on cmd "shutdown.bat"</i></br>
