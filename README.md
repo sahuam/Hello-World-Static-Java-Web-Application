@@ -47,7 +47,7 @@ Open cmd(command prompt) on your system and follow the below steps - </br>
 <i>Note : To stop apache tomact type on cmd "shutdown.bat"</i></br>
 
 <b>Step 3 - Check your website on your local</b></br>
-Open a browser and use this url <b>"http://localhost:8080/HelloWorld/"</b></br>.
-<i>Note : The above URL will direct to the <b>index.html</b> that we have created in our HelloWorld Project and this is a thing that tomcat has set bydefault in a file called web.xml.</i>
+Open a browser and use this url <b>"http://localhost:8080/HelloWorld/"</b>.</br>
+<i>Note : The above URL will direct to the <b>index.html</b> that we have created in our HelloWorld Project and this is a thing that tomcat has set bydefault in a file called web.xml.</i></br>
 If you want to see <b>home.html</b> then you have to use <b>"http://localhost:8080/HelloWorld/home.html"</b>.</br>
-If you want your home page should come up automatically just like 
+If you want your home page should come up automatically just like index page then we need to make some changes in web.xml of our project.</br>
