@@ -36,4 +36,5 @@ You can follow the below structure for creating your full project directory.
 
 <b>Step 2 - Deploying HelloWorld Project in Apache Tomcat.</b>
 If tomcat is not install in your system. Click here to visit the website to download --> <a href="https://tomcat.apache.org/download-90.cgi">Apache Tomcat 9</a>
+
 Copy the project folder HelloWorld in "<tomcat-install-dir>/webapps/" directory.
