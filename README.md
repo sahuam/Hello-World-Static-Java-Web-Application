@@ -14,9 +14,9 @@ We are trying to build a static web application using simple HTML and CSS code t
 # Steps to follow -
 Before starting i hope you have the basic about HTML, CSS and Apache Web server/Apache tomcat. If not, the very first step is <b>GO AND LEARN...!!</b>  
 
-<b>Step 1 - Creating Static Web Project.</b>
-We have to create a base folder/directory for our project. In this we have create a folder named HelloWorld. So basically HelloWorld is my projet name.
-You can follow the below structure for creating your full project directory. 
+<b>Step 1 - Creating Static Web Project.</b></br>
+We have to create a base folder/directory for our project. In this we have create a folder named HelloWorld. So basically HelloWorld is my projet name.</br></br>
+You can follow the below structure for creating your full project directory. </br>
 
           HelloWorld/
           |
@@ -45,3 +45,9 @@ Open cmd(command prompt) on your system and follow the below steps - </br>
           - For starting tomcat type : <b>startup.bat</b> 
 
 <i>Note : To stop apache tomact type on cmd "shutdown.bat"</i></br>
+
+<b>Step 3 - Check your website on your local</b></br>
+Open a browser and use this url <b>"http://localhost:8080/HelloWorld/"</b></br>.
+<i>Note : The above URL will direct to the <b>index.html</b> that we have created in our HelloWorld Project and this is a thing that tomcat has set bydefault in a file called web.xml.</i>
+If you want to see <b>home.html</b> then you have to use <b>"http://localhost:8080/HelloWorld/home.html"</b>.</br>
+If you want your home page should come up automatically just like 
